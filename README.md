@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashknik
+- 👋 Hi, I’m Ashok Naik
 - 👀 I’m interested in Javascript,TypeScript ,C Sharp
 - 🌱 I’m currently learning  React Native
 - 💞️ I’m looking to collaborate on Nodejs,Graph Ql
